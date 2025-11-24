@@ -1,17 +1,22 @@
 <img src="./qmlcourse/logo.svg" align="left" width="175" height="175"></img>
+
 </br></br></br>
 
-# `Курс по КМО` (категорически русская версия)
+# `Курс по КМО`
 
-<a href="https://quantum-ods.github.io/qmlcourse/">
-    <img alt="badge_website_jb" src="https://img.shields.io/badge/книга-основная--сборка-blueviolet?style=for-the-badge">
-</a>
-<a href="https://ods.ai/tracks/qmlcourse">
-    <img alt="badge_ods_page" src="https://img.shields.io/badge/ods.ai-страница%20курса-critical?style=for-the-badge">
-</a>
-<!-- <a href="https://github.com/quantum-ods/qmlcourse/raw/web-page-prod/latex/qmlcourse.pdf">
-    <img alt="badge_download_pdf_book" src="https://img.shields.io/badge/pdf%20book-download-information?style=for-the-badge"> -->
-</a>
+</br>
+
+<p align="left">
+    <a href="https://quantum-ods.github.io/qmlcourse/">
+        <img alt="badge_website_jb" src="https://img.shields.io/badge/книга-основная--сборка-blueviolet?style=for-the-badge">
+    </a>
+    <a href="https://ods.ai/tracks/qmlcourse">
+        <img alt="badge_ods_page" src="https://img.shields.io/badge/ods.ai-страница%20курса-critical?style=for-the-badge">
+    </a>
+    <!-- <a href="https://github.com/quantum-ods/qmlcourse/raw/web-page-prod/latex/qmlcourse.pdf">
+        <img alt="badge_download_pdf_book" src="https://img.shields.io/badge/pdf%20book-download-information?style=for-the-badge"> -->
+    </a>
+</p>
 
 <p align="left">
   <a href="https://github.com/quantum-ods/qmlcourse/actions/workflows/ci.yml">
