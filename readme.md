@@ -1,41 +1,8 @@
 <img src="./qmlcourse/logo.svg" align="left" width="175" height="175"></img>
 
-<p align="left">
-    <a href="https://quantum-ods.github.io/qmlcourse/">
-        <img alt="badge_website_jb" src="https://img.shields.io/badge/книга-основная--сборка-blueviolet?style=for-the-badge">
-    </a>
-    <a href="https://ods.ai/tracks/qmlcourse">
-        <img alt="badge_ods_page" src="https://img.shields.io/badge/ods.ai-страница%20курса-critical?style=for-the-badge">
-    </a>
-    <!-- <a href="https://github.com/quantum-ods/qmlcourse/raw/web-page-prod/latex/qmlcourse.pdf">
-        <img alt="badge_download_pdf_book" src="https://img.shields.io/badge/pdf%20book-download-information?style=for-the-badge"> -->
-    </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/quantum-ods/qmlcourse/actions/workflows/ci.yml">
-    <img alt="badge_ci" src="https://github.com/quantum-ods/qmlcourse/actions/workflows/ci.yml/badge.svg">
-  </a>
-  <a href="https://github.com/quantum-ods/qmlcourse/actions/workflows/cd-prod.yml">
-    <img alt="badge_cd_prod" src="https://github.com/quantum-ods/qmlcourse/actions/workflows/cd-prod.yml/badge.svg">
-  </a>
-  <a href="https://github.com/quantum-ods/qmlcourse/actions/workflows/dependency-review.yml">
-    <img alt="badge_dependency_review" src="https://github.com/quantum-ods/qmlcourse/actions/workflows/dependency-review.yml/badge.svg">
-  </a>
-  <!-- <a href="https://github.com/quantum-ods/qmlcourse/actions/workflows/codeql.yml">
-    <img alt="badge_codeql" src="https://github.com/quantum-ods/qmlcourse/actions/workflows/codeql.yml/badge.svg">
-  </a>   -->
-</p>
+</br></br></br>
 
 # `Курс по КМО`
-
-## Помощь в развитии
-
-В файле [CONTRIBUTING.md](./CONTRIBUTING.md) все детали и правила.
-
-### Обсуждения и вопросы
-
-Идеи, предложения, замечания и т.п. можно указать во вкладке [discussions](https://github.com/quantum-ods/qmlcourse/discussions). Также можете воспользоваться вкладкой [issues](https://github.com/quantum-ods/qmlcourse/issues).
 
 ## Программа
 
@@ -48,14 +15,6 @@
 - **ЖЕЛТЫЙ** -- лекции, глубже раскрывающие темы блоков;
 - **КРАСНЫЙ** -- лекции про физику и математику, которая стоит за всем этим;
 - **БЕЛЫЙ** -- факультативные лекции.
-
-## Команда
-
-Основные авторы, рецензенты, редакторы, тех часть можете найти [здесь](https://quantum-ods.github.io/qmlcourse/book/authors.html).
-
-## ODS
-
-Чтобы присоединиться ознакомтесь со <https://ods.ai/tracks/mattermost>.
 
 ## Похожие проекты
 
@@ -74,7 +33,3 @@
 - [Основы квантовых вычислений CERN](https://russol.info/quantum)
 
     Подходит для начинающих. Лекции разбиты на короткие части, конспекты прокомментированы и проиллюстрированы. Базируется на открытом курсе CERN introductory lectures on quantum computing
-
-----
-
-[Написать письмо](mailto:qmlcourse.ods@gmail.com)
