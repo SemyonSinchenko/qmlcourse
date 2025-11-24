@@ -1,4 +1,5 @@
-<img src="./qmlcourse/logo.svg" align="left" width="180" height="180"></img>
+<img src="./qmlcourse/logo.svg" align="left" width="175" height="175"></img>
+</br></br></br>
 
 # `Курс по КМО` (категорически русская версия)
 
