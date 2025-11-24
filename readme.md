@@ -1,11 +1,5 @@
 <img src="./qmlcourse/logo.svg" align="left" width="175" height="175"></img>
 
-</br></br></br>
-
-# `Курс по КМО`
-
-</br>
-
 <p align="left">
     <a href="https://quantum-ods.github.io/qmlcourse/">
         <img alt="badge_website_jb" src="https://img.shields.io/badge/книга-основная--сборка-blueviolet?style=for-the-badge">
@@ -33,7 +27,7 @@
   </a>   -->
 </p>
 
-</br>
+# `Курс по КМО`
 
 ## Помощь в развитии
 
